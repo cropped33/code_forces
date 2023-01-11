@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "math.h": "c",
+        "regex": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
